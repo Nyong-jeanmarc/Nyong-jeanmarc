@@ -1,4 +1,8 @@
-# 💫 Hi, I'm Jean Marc!:
+# 💫 Hi, I'm Jean Marc
+here are some Apps built by me
+
+https://v0-jmflix-movie-platform-vdxtk6.vercel.app/
+
 🔭I'm currently working on an insurance app that helps user download their DTA attestation without having to fill out long forms in the DGI system.<br>🌱 I’m currently learning Artificial Intelligence Fundamentals.<br>👷🏾‍♂️ Passionate about building secure products with a strong background in secure coding practices and that solve REAL problems.<br>📖 Learns all things about technology.<br>🌱I actively utilize AI-powered tools to enhance my development workflow and overall efficiency.<br>⚙️ Open Source Believer and Contributor; I am also interested in building software using secure coding techniques and exploring the ethical implications of AI.
 
 
